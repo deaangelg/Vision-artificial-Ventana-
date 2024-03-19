@@ -28,7 +28,7 @@ El script fue desarrollado utilizando las siguientes tecnologías y bibliotecas:
 El script generará varias imágenes como salida:
 
 - **Imagen Clasificada:**
-![Imagen clasificada]
+![Imagen clasificada](https://github.com/deaangelg/Vision-artificial-Ventana-/blob/89b21c22c370f0aa2d8b1e4be7e113708dba2f50/clasificada.jpg)
 - **Imagen Etiquetada:** Muestra la imagen etiquetada con números para cada objeto identificado.
 - **Localización:** Muestra la imagen con rectángulos que delimitan las ventanas identificadas en los objetos.
 
