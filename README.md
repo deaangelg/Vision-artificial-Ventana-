@@ -34,7 +34,7 @@ El script generará varias imágenes como salida:
 
 ![Imagen etiquetada](https://github.com/deaangelg/Vision-artificial-Ventana-/blob/02a2290dcaf123efd896e957d58e8aebdaf5aa1c/Etiquetaje_con_numeros.jpg) 
 - **Localización:** Muestra la imagen con rectángulos que delimitan las ventanas identificadas en los objetos.
-
+![Imagen localizacion](
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si desea realizar alguna mejora o corregir algún error, no dude en enviar una solicitud de extracción.
