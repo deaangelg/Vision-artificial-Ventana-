@@ -32,7 +32,7 @@ El script generará varias imágenes como salida:
 ![Imagen clasificada](https://github.com/deaangelg/Vision-artificial-Ventana-/blob/89b21c22c370f0aa2d8b1e4be7e113708dba2f50/clasificada.jpg)
 - **Imagen Etiquetada:** Muestra la imagen etiquetada con números para cada objeto identificado.
 
-![Imagen etiquetada](https://github.com/deaangelg/Vision-artificial-Ventana-/blob/02a2290dcaf123efd896e957d58e8aebdaf5aa1c/Etiquetaje_con_numeros.jpg) 
+![Imagen etiquetada](https://github.com/deaangelg/Vision-artificial-Ventana-/blob/086393fab036be05c3a6a5fe039ef1830759290b/etiquetaje.jpg) 
 - **Localización:** Muestra la imagen con rectángulos que delimitan las ventanas identificadas en los objetos.
 
 
